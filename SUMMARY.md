@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Comandi](Comandi.md)
+  * [Comandi](readme/comandi.md)
 
 ## Group 1
 
