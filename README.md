@@ -5,3 +5,5 @@ Per usare questa documentazione:
 - Usa la barra laterale
 - Guarda l’indice qui sotto
 ## Indice
+# Comandi
+Pagina comandi
